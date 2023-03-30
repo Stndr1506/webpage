@@ -1,0 +1,210 @@
+
+*{
+    margin: 0px;
+    padding: 0px, 0px;
+}
+.container{
+    justify-content: center;
+    display: flex;
+    height: 250px;
+    width: 100%;
+}
+.box1{ 
+    margin: 25px;
+    height: 100px;
+    width: 325px;
+    border: 2px solid lightsteelblue;
+    border-left: 4px solid lightsteelblue;
+}
+.task{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.inner_text{
+    color: blue;
+}
+.inner_text2{
+    margin: 10px;
+    color: blue;
+}
+.box2{ 
+    margin: 25px;  
+    height: 100px;
+    width: 325px;
+    border: 2px solid red;
+    border-left: 4px solid red;
+}
+.box3{ 
+    margin: 25px;  
+    height: 100px;
+    width: 325px;
+    border: 2px solid green;
+    border-left: 4px solid green;
+}
+.box4{ 
+    margin: 25px;  
+    height: 100px;
+    width: 325px;
+    border: 2px solid blue;
+    border-left: 4px solid blue;
+}
+.container1{
+    height: 450px;
+    width: 100%;
+}
+.line{
+    display: flex;
+    width: 100%;
+    height: 75px;
+}
+.line1{
+    background-color: lightsteelblue;
+    display: flex;
+    width: 100%;
+    height: 75px;
+
+
+}
+.small{
+    display: flex;
+    margin-left: 5px;
+    height: 75px;
+    width: 250px;
+    border: 2px solid lightsteelblue;
+}
+.small1{
+   
+    display: flex;
+    background-color: lightsteelblue;
+    height: 75px;
+    width: 250px;
+    border: 1px solid lightsteelblue;
+    border-top: 4px solid lightsteelblue;
+}
+.now{
+    background-color: lightsteelblue;
+    margin: 25px;
+}
+.search{
+    background-color: lightgray;
+    justify-content: space-between;
+    display: flex;
+    height: 65px;
+    width: 100%;
+    border: 1px solid black;
+}
+.data{
+    background-color: lightgrey;   
+    display: flex;
+    height: 65px;
+    width: 100%;
+}
+.data1{
+    display: flex;
+    height: 65px;
+    width: 100%;
+}
+.small_data{
+    height: 65px;
+    width: 200px;
+    border: 1px solid black;
+
+}
+.small_data1{
+
+    height: 65px;
+    width: 250px;
+    border: 1px solid black;
+
+}
+.h-data{
+    margin-top:18px ;
+    margin-left: 3px;
+}
+.r-data{
+    font-size: 15px;
+    margin-top:18px ;
+    margin-left: 3px;
+}
+.print{ 
+    width: 330px;
+    height: 65px;
+    
+}
+.logo{
+    margin: 18px;
+    height: 40px;
+    width: 50px;
+}
+.page{
+    height:65px ;
+    width: 400px;
+}
+.view{
+    text-align: center;
+    margin: 20px;
+    height: 65px;
+    width: 150px;
+}
+.page{
+    margin: 10px;   
+    display: flex;
+    
+    height: 65px;
+    width: 430px;
+
+}
+.arrow{
+ 
+    display: flex;
+    height: 65px;
+    width: 150px;
+}
+.small_logo{
+    height: 40px;
+    width: 55px;
+}
+.square{
+    background-color: white;
+    margin: 10px;
+    height: 25px;
+    width: 50px;
+    border: 1px solid black;
+    
+}
+.square2{
+    background-color: white;
+    margin: 10px;
+    height: 25px;
+    width: 40px;
+    border: 1px solid black;
+    
+}
+
+.count{
+    margin: 10px;
+    height: 40px;
+    width: 80px;
+}
+.num{
+    height: 50px;
+    width: 80px;
+}
+.mid{
+    margin: 10px;
+    height: 40px;
+    width: 50px;
+}  
+
+.down{
+    margin: 10px;
+    height: 30px;
+    width: 30px;
+}  
+.star{
+    margin: 10px;
+    float: right;
+    height: 50px;
+    width: 50px;
+}
